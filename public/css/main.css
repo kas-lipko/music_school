@@ -1,0 +1,17 @@
+/* html{
+  background-color: navy;
+}
+
+body {
+  font-family: Arial;
+  height: 100vh;
+  background-color: navy;
+} */
+
+section {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}

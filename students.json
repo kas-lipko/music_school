@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Ania Grzelczyk",
+    "age": 7,
+    "instrument": "piano"
+  },
+  {
+    "name": "Tomasz Radzik",
+    "age": 12,
+    "instrument": "piano"
+  },
+  {
+    "name": "Łukasz Schon",
+    "age": 10,
+    "instrument": "saxophone"
+  },
+  {
+    "name": "Magdalena Rejek",
+    "age": 27,
+    "instrument": "guitar"
+  },
+  {
+    "name": "Sabina Mularczyk",
+    "age": 14,
+    "instrument": "piano"
+  }
+]
